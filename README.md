@@ -1,3 +1,3 @@
 # mini-weather-app
-#react-props
-#react-states
+# react-props
+# react-states
